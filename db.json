@@ -1,0 +1,1551 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2023-02-14T08:08:03.239Z",
+      "user": 1,
+      "content_type": 5,
+      "object_id": "2",
+      "object_repr": "shop1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2023-02-14T08:08:16.585Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "Profile object (2)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Role\", \"Address\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2023-02-14T08:08:41.091Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "computers",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2023-02-14T08:08:58.175Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "2",
+      "object_repr": "desktops",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2023-02-14T08:09:13.759Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "3",
+      "object_repr": "notebooks",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2023-02-14T08:14:16.900Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "1",
+      "object_repr": "Моноблок Apple iMac 27\" Retina 5K 2020 MXWT2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2023-02-14T08:14:54.971Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "1",
+      "object_repr": "Моноблок Apple iMac 27\" Retina 5K 2020 MXWT2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Specifications\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2023-02-14T08:15:21.951Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "1",
+      "object_repr": "shop1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2023-02-14T08:17:06.545Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "2",
+      "object_repr": "Моноблок ASUS M3700WYAK-WA010M",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2023-02-14T08:18:14.414Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "2",
+      "object_repr": "shop1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2023-02-14T08:27:32.111Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "Profile object (2)",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2023-02-14T08:28:05.353Z",
+      "user": 1,
+      "content_type": 5,
+      "object_id": "3",
+      "object_repr": "shop2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2023-02-14T08:36:04.902Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "Profile object (3)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Role\", \"Address\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2023-02-14T08:37:02.217Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "Profile object (2)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2023-02-14T08:37:09.497Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "Profile object (3)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2023-02-14T08:53:19.198Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "3",
+      "object_repr": "Ноутбук Lenovo IdeaPad 3 15ABA7 82RN00C5",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2023-02-14T08:53:39.304Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "3",
+      "object_repr": "Ноутбук Lenovo IdeaPad 3 15ABA7 82RN00C5",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Main image\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2023-02-14T08:56:58.290Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "4",
+      "object_repr": "Ноутбук Apple Macbook Air 13\" M1 2020 MGN63",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2023-02-14T08:57:42.103Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "5",
+      "object_repr": "Ноутбук Apple Macbook Pro 16\" M1 Max 2021 MK1A3",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2023-02-14T08:58:32.639Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "6",
+      "object_repr": "Ноутбук ASUS VivoBook 14 X413EA-EK969",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2023-02-14T08:59:25.593Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "7",
+      "object_repr": "Ноутбук HP Pavilion 15-eg0045ur 2P1P2EA",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2023-02-14T09:00:13.386Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "8",
+      "object_repr": "Ноутбук Acer Aspire 5 A515-45-R6M3 NX.A82EU.00X",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2023-02-14T09:02:12.082Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "3",
+      "object_repr": "shop1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2023-02-14T09:02:36.776Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "4",
+      "object_repr": "shop1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2023-02-14T09:02:58.524Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "5",
+      "object_repr": "shop2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2023-02-14T09:03:25.895Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "6",
+      "object_repr": "shop2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2023-02-14T09:03:47.617Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "7",
+      "object_repr": "shop2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2023-02-14T09:04:12.748Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "8",
+      "object_repr": "shop2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2023-02-23T08:36:31.368Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "1",
+      "object_repr": "http://www.google.com",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2023-02-23T08:37:32.305Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "1",
+      "object_repr": "http://www.google.com",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2023-02-23T08:37:37.085Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "1",
+      "object_repr": "http://www.google.com",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2023-02-23T08:38:25.769Z",
+      "user": 1,
+      "content_type": 18,
+      "object_id": "1",
+      "object_repr": "smith@",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2023-02-23T08:38:41.477Z",
+      "user": 1,
+      "content_type": 18,
+      "object_id": "2",
+      "object_repr": "1@",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2023-02-23T09:11:21.839Z",
+      "user": 1,
+      "content_type": 18,
+      "object_id": "3",
+      "object_repr": "john@",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2023-02-23T09:11:38.138Z",
+      "user": 1,
+      "content_type": 18,
+      "object_id": "4",
+      "object_repr": "2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2023-02-23T09:11:50.327Z",
+      "user": 1,
+      "content_type": 18,
+      "object_id": "5",
+      "object_repr": "shop1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2023-02-23T11:28:41.883Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "10",
+      "object_repr": "shop1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2023-02-24T16:10:50.023Z",
+      "user": 1,
+      "content_type": 18,
+      "object_id": "6",
+      "object_repr": "2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+      "action_time": "2023-02-24T16:11:04.860Z",
+      "user": 1,
+      "content_type": 18,
+      "object_id": "7",
+      "object_repr": "john@",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+      "action_time": "2023-02-24T16:11:27.893Z",
+      "user": 1,
+      "content_type": 18,
+      "object_id": "8",
+      "object_repr": "smith@",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+      "action_time": "2023-03-01T14:34:31.544Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "8",
+      "object_repr": "Ноутбук Acer Aspire 5 A515-45-R6M3 NX.A82EU.00X",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Specifications\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+      "action_time": "2023-03-03T11:34:53.324Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "4",
+      "object_repr": "domestic electornics",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+      "action_time": "2023-03-03T11:39:14.739Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "9",
+      "object_repr": "Телевизор Blaupunkt 43UBC6010T",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+      "action_time": "2023-03-03T11:39:38.393Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "11",
+      "object_repr": "shop2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+      "action_time": "2023-03-03T12:31:15.357Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "10",
+      "object_repr": "Телевизор LG 65NANO766QA",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+      "action_time": "2023-03-03T12:31:50.277Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "9",
+      "object_repr": "Телевизор Blaupunkt 43UBC6010T",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Specifications\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+      "action_time": "2023-03-03T12:33:12.441Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "12",
+      "object_repr": "shop2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$malqcwj2BOIw0vdHoA9QZa$Eq706rF2vHsF1GRmSyPZZoGKYKKmlRlruxcnlBzCu8A=",
+      "last_login": "2023-02-27T11:04:20.824Z",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-02-14T08:06:50.267Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$wDVaMMnzUTUq9BbcMnfGzE$DNmnNlCWOrEON4AhqDV6LEfVb4w9vPwc601Qg62qX5A=",
+      "last_login": "2023-02-22T15:04:57.902Z",
+      "is_superuser": false,
+      "username": "shop1",
+      "first_name": "",
+      "last_name": "",
+      "email": "shop1@gmail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-02-14T08:08:02.780Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$sC4zFJbTgrez50A6kl6qNi$NaIODTp/ve4TbDWAEGaPWXODS7kL9piWv6Q7qtyUBmA=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "shop2",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-02-14T08:28:04.940Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 4,
+    "fields": {
+      "password": "$killB0x123",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "john@",
+      "first_name": "",
+      "last_name": "",
+      "email": "john@gmail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-02-22T09:23:24.302Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 5,
+    "fields": {
+      "password": "$killB0x123",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "smith@",
+      "first_name": "",
+      "last_name": "",
+      "email": "smith@gmail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-02-22T09:34:59.707Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 6,
+    "fields": {
+      "password": "$killB0x123",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "1@",
+      "first_name": "",
+      "last_name": "",
+      "email": "1@gmail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-02-22T15:03:35.758Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 7,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$fqkRlC8GG5dJ12XPueMBei$G1+TWX9zyLLlmYtZvVSghL7zC/9tRkE8qQFijiC8+O4=",
+      "last_login": "2023-02-22T16:18:52.953Z",
+      "is_superuser": false,
+      "username": "2",
+      "first_name": "",
+      "last_name": "",
+      "email": "2@gmail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-02-22T15:20:04.514Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 8,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$7bQklZaDsb995M1NkxMyOB$ldkKNFoI7gUv8nH5G06WKWLZJoNbrQlHGcBS35lLkk8=",
+      "last_login": "2023-03-05T06:22:12.774Z",
+      "is_superuser": true,
+      "username": "jjuchara",
+      "first_name": "",
+      "last_name": "",
+      "email": "jjuchara@gmail.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-03-05T06:14:38.549Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "9acpe8s9yjwhzbcwtm00l3o0tkkf7a64",
+    "fields": {
+      "session_data": ".eJyrVkpOLCpRsqpWyixJzS0GMmp1lErySxJz4kES8QVFmcmpIOn8nBQYx0BHKS-1HM4DashNLS5OTAdyomN1lAqK8nPz45PzU1LjczKLS0CCtbUAhPIk0g:1pYZ8N:3QEomCvtHQC-LPudVqEdT3AlSk9v0J31GTTsr16_2P8",
+      "expire_date": "2023-03-18T21:09:39.856Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "tjrmkj7xgwh18e2g0ofirjh1k3as3mzk",
+    "fields": {
+      "session_data": ".eJyrVkpOLCpRsqpWyixJzS0GMmp1lErySxJz4kES8QVFmcmpIOn8nBQYx0BHKS-1HM4DashNLS5OTAdyomN1lAqK8nPz45PzU1LjczKLS0CCtbUAhPIk0g:1pZFKD:fFO-5RE3qnMBHnf_Z5lqGL4dvvDCUHty2G5jz9xqbPs",
+      "expire_date": "2023-03-20T18:12:41.398Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "wv47cgug0kwpnaabkub9xdhzk0nb3hz6",
+    "fields": {
+      "session_data": ".eJxVjMGOwjAQQ_9lzlWVpGTbctw7X4BQNJlMadi2QUkQB8S_k0gsEjfbz_YDCGOG_QN85jUV8Wwgh4yLqcBcoyeuOCzu34gGNr5_XBmsnBKeizmeGrjGsAZDwbFZfMo1LBWDtzybW-JovIM9DPCVWaQ_3ipwF9zOoaWw5ehtWyvtm6b2UF6X33f362DGNJc1kSTXo1bSae4UC7sbRzWJHzWR7YdBCo0CRxqt6jot2NpJau4lazHYTuzg-QJf9VvC:1pYhl6:OsvBxV44QXjRsP8Xnfb7Y6hO1eqeAjcpR2cOSEcz4aM",
+      "expire_date": "2023-03-19T06:22:12.793Z"
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 1,
+    "fields": {
+      "key": "ADMIN_SITE_HEADER",
+      "value": "gAJYBgAAAE1lZ2Fub3EALg=="
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 2,
+    "fields": {
+      "key": "ADMIN_SITE_TITLE",
+      "value": "gAJYBgAAAE1lZ2Fub3EALg=="
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 3,
+    "fields": {
+      "key": "CATEGORY_CACHE_TIME",
+      "value": 86400
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 4,
+    "fields": {
+      "key": "CATALOG_CACHE_TIME",
+      "value": 86400
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 5,
+    "fields": {
+      "key": "BANNER_CACHE_TIME",
+      "value": 86400
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 6,
+    "fields": {
+      "key": "SELLER_CACHE_TIME",
+      "value": 86400
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 7,
+    "fields": {
+      "key": "SELLER_TOP_ITEM_CACHE_TIME",
+      "value": 86400
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 8,
+    "fields": {
+      "key": "TOP_ITEM_CACHE_TIME",
+      "value": 86400
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 9,
+    "fields": {
+      "key": "DETAIL_ITEM_CACHE_TIME",
+      "value": 86400
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 10,
+    "fields": {
+      "key": "CLEAR_CATEGORY_CACHE",
+      "value": false
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 11,
+    "fields": {
+      "key": "CLEAR_BANNER_CACHE",
+      "value": false
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 12,
+    "fields": {
+      "key": "CLEAR_SELLER_CACHE",
+      "value": false
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 13,
+    "fields": {
+      "key": "CLEAR_CATALOG_CACHE",
+      "value": false
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 14,
+    "fields": {
+      "key": "CLEAR_SELLER_TOP_ITEM_CACHE",
+      "value": false
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 15,
+    "fields": {
+      "key": "CLEAR_TOP_ITEM_CACHE",
+      "value": false
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 16,
+    "fields": {
+      "key": "CLEAR_DETAIL_ITEM_CACHE",
+      "value": false
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 17,
+    "fields": {
+      "key": "CLEAR_SITE_CACHE",
+      "value": false
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 18,
+    "fields": {
+      "key": "EXPRESS_DELIVERY_PRICE",
+      "value": 500
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 19,
+    "fields": {
+      "key": "FREE_DELIVERY_LIMIT",
+      "value": 2000
+    }
+  },
+  {
+    "model": "database.constance",
+    "pk": 20,
+    "fields": {
+      "key": "ORDINARY_DELIVERY_PRICE",
+      "value": 200
+    }
+  },
+  {
+    "model": "account.profile",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "role": "customer",
+      "avatar": "",
+      "name": "",
+      "last_name": "",
+      "first_name": "",
+      "third_name": "",
+      "city": "",
+      "address": "",
+      "phone_number": null
+    }
+  },
+  {
+    "model": "account.profile",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "role": "seller",
+      "avatar": "",
+      "name": "Shop #1",
+      "last_name": "",
+      "first_name": "",
+      "third_name": "",
+      "city": "",
+      "address": "1 Square st.",
+      "phone_number": null
+    }
+  },
+  {
+    "model": "account.profile",
+    "pk": 3,
+    "fields": {
+      "user": 3,
+      "role": "seller",
+      "avatar": "",
+      "name": "Shop #2",
+      "last_name": "",
+      "first_name": "",
+      "third_name": "",
+      "city": "",
+      "address": "2 Central sq.",
+      "phone_number": null
+    }
+  },
+  {
+    "model": "account.profile",
+    "pk": 4,
+    "fields": {
+      "user": 4,
+      "role": "customer",
+      "avatar": "",
+      "name": "",
+      "last_name": "Smith",
+      "first_name": "John",
+      "third_name": "",
+      "city": "",
+      "address": "",
+      "phone_number": null
+    }
+  },
+  {
+    "model": "account.profile",
+    "pk": 5,
+    "fields": {
+      "user": 5,
+      "role": "customer",
+      "avatar": "",
+      "name": "",
+      "last_name": "Smith",
+      "first_name": "John",
+      "third_name": "",
+      "city": "",
+      "address": "",
+      "phone_number": null
+    }
+  },
+  {
+    "model": "account.profile",
+    "pk": 6,
+    "fields": {
+      "user": 6,
+      "role": "customer",
+      "avatar": "",
+      "name": "",
+      "last_name": "smith",
+      "first_name": "john",
+      "third_name": "",
+      "city": "",
+      "address": "",
+      "phone_number": null
+    }
+  },
+  {
+    "model": "account.profile",
+    "pk": 7,
+    "fields": {
+      "user": 7,
+      "role": "customer",
+      "avatar": "",
+      "name": "",
+      "last_name": "smith",
+      "first_name": "peter",
+      "third_name": "",
+      "city": "",
+      "address": "",
+      "phone_number": null
+    }
+  },
+  {
+    "model": "megano_shop.category",
+    "pk": 1,
+    "fields": {
+      "title": "computers",
+      "parent": null,
+      "slug": "computers",
+      "is_active": true,
+      "icon": "img/category_icons/computer_glaRZM5.png",
+      "lft": 1,
+      "rght": 6,
+      "tree_id": 1,
+      "level": 0,
+      "discount": []
+    }
+  },
+  {
+    "model": "megano_shop.category",
+    "pk": 2,
+    "fields": {
+      "title": "desktops",
+      "parent": 1,
+      "slug": "desktops",
+      "is_active": true,
+      "icon": "img/category_icons/desktop_bzSxEoP.png",
+      "lft": 2,
+      "rght": 3,
+      "tree_id": 1,
+      "level": 1,
+      "discount": []
+    }
+  },
+  {
+    "model": "megano_shop.category",
+    "pk": 3,
+    "fields": {
+      "title": "notebooks",
+      "parent": 1,
+      "slug": "notebooks",
+      "is_active": true,
+      "icon": "img/category_icons/laptop_VQlCq8F.png",
+      "lft": 4,
+      "rght": 5,
+      "tree_id": 1,
+      "level": 1,
+      "discount": []
+    }
+  },
+  {
+    "model": "megano_shop.category",
+    "pk": 4,
+    "fields": {
+      "title": "domestic electornics",
+      "parent": null,
+      "slug": "domestic-electornics",
+      "is_active": true,
+      "icon": "img/category_icons/electric-appliance_SMvx86O.png",
+      "lft": 1,
+      "rght": 2,
+      "tree_id": 2,
+      "level": 0,
+      "discount": []
+    }
+  },
+  {
+    "model": "megano_shop.item",
+    "pk": 1,
+    "fields": {
+      "category": 2,
+      "slug": "monoblok-apple-imac-27-retina-5k-2020-mxwt2",
+      "title": "Моноблок Apple iMac 27\" Retina 5K 2020 MXWT2",
+      "main_image": "img/item_images/2023/02/14/Apple_iMac_qYgsOqq.jpeg",
+      "description": "Моноблок Apple iMac 27\" Retina 5K 2020 MXWT2",
+      "status": "a",
+      "specifications": {
+        "manufacturer": "Apple",
+        "display": 27
+      },
+      "count_view": 0,
+      "tag": [],
+      "discount": [],
+      "images": []
+    }
+  },
+  {
+    "model": "megano_shop.item",
+    "pk": 2,
+    "fields": {
+      "category": 2,
+      "slug": "monoblok-asus-m3700wyak-wa010m",
+      "title": "Моноблок ASUS M3700WYAK-WA010M",
+      "main_image": "img/item_images/2023/02/14/Asus_mono.jpeg",
+      "description": "Моноблок ASUS M3700WYAK-WA010M",
+      "status": "a",
+      "specifications": {
+        "manufacturer": "Asus"
+      },
+      "count_view": 0,
+      "tag": [],
+      "discount": [],
+      "images": []
+    }
+  },
+  {
+    "model": "megano_shop.item",
+    "pk": 3,
+    "fields": {
+      "category": 3,
+      "slug": "noutbuk-lenovo-ideapad-3-15aba7-82rn00c5",
+      "title": "Ноутбук Lenovo IdeaPad 3 15ABA7 82RN00C5",
+      "main_image": "img/item_images/2023/02/14/Lenovo.jpeg",
+      "description": "Ноутбук Lenovo IdeaPad 3 15ABA7 82RN00C5",
+      "status": "a",
+      "specifications": {
+        "manufacturer": "Lenovo"
+      },
+      "count_view": 0,
+      "tag": [],
+      "discount": [],
+      "images": []
+    }
+  },
+  {
+    "model": "megano_shop.item",
+    "pk": 4,
+    "fields": {
+      "category": 3,
+      "slug": "noutbuk-apple-macbook-air-13-m1-2020-mgn63",
+      "title": "Ноутбук Apple Macbook Air 13\" M1 2020 MGN63",
+      "main_image": "img/item_images/2023/02/14/Apple_Macbook_Air.jpeg",
+      "description": "Ноутбук Apple Macbook Air 13\" M1 2020 MGN63",
+      "status": "a",
+      "specifications": {
+        "manufacturer": "Apple"
+      },
+      "count_view": 0,
+      "tag": [],
+      "discount": [],
+      "images": []
+    }
+  },
+  {
+    "model": "megano_shop.item",
+    "pk": 5,
+    "fields": {
+      "category": 3,
+      "slug": "noutbuk-apple-macbook-pro-16-m1-max-2021-mk1a3",
+      "title": "Ноутбук Apple Macbook Pro 16\" M1 Max 2021 MK1A3",
+      "main_image": "img/item_images/2023/02/14/Apple_MacBook_Pro_16.jpeg",
+      "description": "Ноутбук Apple Macbook Pro 16\" M1 Max 2021 MK1A3",
+      "status": "a",
+      "specifications": {
+        "manufacturer": "Apple"
+      },
+      "count_view": 0,
+      "tag": [],
+      "discount": [],
+      "images": []
+    }
+  },
+  {
+    "model": "megano_shop.item",
+    "pk": 6,
+    "fields": {
+      "category": 3,
+      "slug": "noutbuk-asus-vivobook-14-x413ea-ek969",
+      "title": "Ноутбук ASUS VivoBook 14 X413EA-EK969",
+      "main_image": "img/item_images/2023/02/14/Asus.jpeg",
+      "description": "Ноутбук ASUS VivoBook 14 X413EA-EK969",
+      "status": "a",
+      "specifications": {
+        "manufacturer": "Asus"
+      },
+      "count_view": 0,
+      "tag": [],
+      "discount": [],
+      "images": []
+    }
+  },
+  {
+    "model": "megano_shop.item",
+    "pk": 7,
+    "fields": {
+      "category": 3,
+      "slug": "noutbuk-hp-pavilion-15-eg0045ur-2p1p2ea",
+      "title": "Ноутбук HP Pavilion 15-eg0045ur 2P1P2EA",
+      "main_image": "img/item_images/2023/02/14/HP.jpeg",
+      "description": "Ноутбук HP Pavilion 15-eg0045ur 2P1P2EA",
+      "status": "a",
+      "specifications": {
+        "manufacturer": "HP"
+      },
+      "count_view": 0,
+      "tag": [],
+      "discount": [],
+      "images": []
+    }
+  },
+  {
+    "model": "megano_shop.item",
+    "pk": 8,
+    "fields": {
+      "category": 3,
+      "slug": "noutbuk-acer-aspire-5-a515-45-r6m3-nxa82eu00x",
+      "title": "Ноутбук Acer Aspire 5 A515-45-R6M3 NX.A82EU.00X",
+      "main_image": "img/item_images/2023/02/14/Acer.jpeg",
+      "description": "Ноутбук Acer Aspire 5 A515-45-R6M3 NX.A82EU.00X",
+      "status": "a",
+      "specifications": {
+        "manufacturer": "Acer"
+      },
+      "count_view": 0,
+      "tag": [],
+      "discount": [],
+      "images": []
+    }
+  },
+  {
+    "model": "megano_shop.item",
+    "pk": 9,
+    "fields": {
+      "category": 4,
+      "slug": "televizor-blaupunkt-43ubc6010t",
+      "title": "Телевизор Blaupunkt 43UBC6010T",
+      "main_image": "img/item_images/2023/03/03/Blaupunkt.jpg",
+      "description": "Телевизор Blaupunkt 43UBC6010T",
+      "status": "a",
+      "specifications": {
+        "manufacturer": "Blaupunkt"
+      },
+      "count_view": 0,
+      "tag": [],
+      "discount": [],
+      "images": []
+    }
+  },
+  {
+    "model": "megano_shop.item",
+    "pk": 10,
+    "fields": {
+      "category": 4,
+      "slug": "televizor-lg-65nano766qa",
+      "title": "Телевизор LG 65NANO766QA",
+      "main_image": "img/item_images/2023/03/03/LG.jpg",
+      "description": "Телевизор LG 65NANO766QA",
+      "status": "a",
+      "specifications": {
+        "manufacturer": "LG"
+      },
+      "count_view": 0,
+      "tag": [],
+      "discount": [],
+      "images": []
+    }
+  },
+  {
+    "model": "megano_shop.banner",
+    "pk": 1,
+    "fields": {
+      "image": "images/2023/02/23/PANO_20230201_151247.jpg",
+      "link": "http://www.google.com",
+      "title": "",
+      "description": "banner",
+      "is_active": true
+    }
+  },
+  {
+    "model": "megano_shop.reviews",
+    "pk": 1,
+    "fields": {
+      "created_on": "2023-02-23T08:38:25.764Z",
+      "edited_on": "2023-02-23T08:38:25.764Z",
+      "user": 5,
+      "item": 1,
+      "content": "Apple iMac 27\""
+    }
+  },
+  {
+    "model": "megano_shop.reviews",
+    "pk": 2,
+    "fields": {
+      "created_on": "2023-02-23T08:38:41.475Z",
+      "edited_on": "2023-02-23T08:38:41.475Z",
+      "user": 6,
+      "item": 1,
+      "content": "test"
+    }
+  },
+  {
+    "model": "megano_shop.reviews",
+    "pk": 3,
+    "fields": {
+      "created_on": "2023-02-23T09:11:21.837Z",
+      "edited_on": "2023-02-23T09:11:21.837Z",
+      "user": 4,
+      "item": 1,
+      "content": "test"
+    }
+  },
+  {
+    "model": "megano_shop.reviews",
+    "pk": 4,
+    "fields": {
+      "created_on": "2023-02-23T09:11:38.132Z",
+      "edited_on": "2023-02-23T09:11:38.132Z",
+      "user": 7,
+      "item": 2,
+      "content": "test"
+    }
+  },
+  {
+    "model": "megano_shop.reviews",
+    "pk": 5,
+    "fields": {
+      "created_on": "2023-02-23T09:11:50.318Z",
+      "edited_on": "2023-02-23T09:11:50.318Z",
+      "user": 2,
+      "item": 2,
+      "content": "test"
+    }
+  },
+  {
+    "model": "megano_shop.reviews",
+    "pk": 6,
+    "fields": {
+      "created_on": "2023-02-24T16:10:50.022Z",
+      "edited_on": "2023-02-24T16:10:50.022Z",
+      "user": 7,
+      "item": 3,
+      "content": "test"
+    }
+  },
+  {
+    "model": "megano_shop.reviews",
+    "pk": 7,
+    "fields": {
+      "created_on": "2023-02-24T16:11:04.858Z",
+      "edited_on": "2023-02-24T16:11:04.858Z",
+      "user": 4,
+      "item": 3,
+      "content": "test"
+    }
+  },
+  {
+    "model": "megano_shop.reviews",
+    "pk": 8,
+    "fields": {
+      "created_on": "2023-02-24T16:11:27.891Z",
+      "edited_on": "2023-02-24T16:11:27.892Z",
+      "user": 5,
+      "item": 6,
+      "content": "test"
+    }
+  },
+  {
+    "model": "megano_shop.stock",
+    "pk": 1,
+    "fields": {
+      "item": 1,
+      "seller": 2,
+      "quantity": 5,
+      "discount": null,
+      "price": "2600.00",
+      "created_on": "2023-03-03T12:33:12.434Z"
+    }
+  },
+  {
+    "model": "megano_shop.stock",
+    "pk": 2,
+    "fields": {
+      "item": 2,
+      "seller": 2,
+      "quantity": 7,
+      "discount": null,
+      "price": "1100.00",
+      "created_on": "2023-03-03T12:33:12.434Z"
+    }
+  },
+  {
+    "model": "megano_shop.stock",
+    "pk": 3,
+    "fields": {
+      "item": 3,
+      "seller": 2,
+      "quantity": 21,
+      "discount": null,
+      "price": "790.00",
+      "created_on": "2023-03-03T12:33:12.434Z"
+    }
+  },
+  {
+    "model": "megano_shop.stock",
+    "pk": 4,
+    "fields": {
+      "item": 4,
+      "seller": 2,
+      "quantity": 15,
+      "discount": null,
+      "price": "1060.00",
+      "created_on": "2023-03-03T12:33:12.434Z"
+    }
+  },
+  {
+    "model": "megano_shop.stock",
+    "pk": 5,
+    "fields": {
+      "item": 5,
+      "seller": 3,
+      "quantity": 3,
+      "discount": null,
+      "price": "3700.00",
+      "created_on": "2023-03-03T12:33:12.434Z"
+    }
+  },
+  {
+    "model": "megano_shop.stock",
+    "pk": 6,
+    "fields": {
+      "item": 6,
+      "seller": 3,
+      "quantity": 17,
+      "discount": null,
+      "price": "867.00",
+      "created_on": "2023-03-03T12:33:12.434Z"
+    }
+  },
+  {
+    "model": "megano_shop.stock",
+    "pk": 7,
+    "fields": {
+      "item": 7,
+      "seller": 3,
+      "quantity": 21,
+      "discount": null,
+      "price": "950.00",
+      "created_on": "2023-03-03T12:33:12.434Z"
+    }
+  },
+  {
+    "model": "megano_shop.stock",
+    "pk": 8,
+    "fields": {
+      "item": 8,
+      "seller": 3,
+      "quantity": 23,
+      "discount": null,
+      "price": "870.00",
+      "created_on": "2023-03-03T12:33:12.434Z"
+    }
+  },
+  {
+    "model": "megano_shop.stock",
+    "pk": 9,
+    "fields": {
+      "item": 8,
+      "seller": 2,
+      "quantity": 21,
+      "discount": null,
+      "price": "850.00",
+      "created_on": "2023-03-03T12:33:12.434Z"
+    }
+  },
+  {
+    "model": "megano_shop.stock",
+    "pk": 10,
+    "fields": {
+      "item": 7,
+      "seller": 2,
+      "quantity": 5,
+      "discount": null,
+      "price": "1000.00",
+      "created_on": "2023-03-03T12:33:12.434Z"
+    }
+  },
+  {
+    "model": "megano_shop.stock",
+    "pk": 11,
+    "fields": {
+      "item": 9,
+      "seller": 3,
+      "quantity": 7,
+      "discount": null,
+      "price": "250.00",
+      "created_on": "2023-03-03T12:33:12.434Z"
+    }
+  },
+  {
+    "model": "megano_shop.stock",
+    "pk": 12,
+    "fields": {
+      "item": 10,
+      "seller": 3,
+      "quantity": 3,
+      "discount": null,
+      "price": "1100.00",
+      "created_on": "2023-03-03T12:33:12.434Z"
+    }
+  }
+]
